@@ -1,0 +1,391 @@
+
+foreground.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+arrow_night
+  rotate: false
+  xy: 538, 839
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: 1
+barrel_nhamay
+  rotate: false
+  xy: 1302, 1242
+  size: 177, 238
+  orig: 177, 238
+  offset: 0, 0
+  index: 1
+barrel_nhamay
+  rotate: false
+  xy: 1585, 1526
+  size: 177, 238
+  orig: 177, 238
+  offset: 0, 0
+  index: 2
+box_nhamay
+  rotate: false
+  xy: 128, 78
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+brush_samac
+  rotate: false
+  xy: 388, 2
+  size: 131, 74
+  orig: 131, 74
+  offset: 0, 0
+  index: 2
+brush_samac
+  rotate: false
+  xy: 1607, 1224
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: 1
+brush_sky
+  rotate: false
+  xy: 569, 566
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: 1
+brush_sky
+  rotate: false
+  xy: 1580, 1157
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: 2
+brush_sky
+  rotate: false
+  xy: 1143, 758
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: 3
+brush_sky
+  rotate: false
+  xy: 1143, 710
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: 4
+bush_night
+  rotate: false
+  xy: 536, 1187
+  size: 182, 90
+  orig: 182, 90
+  offset: 0, 0
+  index: 1
+bush_night
+  rotate: false
+  xy: 512, 89
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: 2
+cactus_samac
+  rotate: false
+  xy: 938, 1087
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: 1
+cactus_samac
+  rotate: false
+  xy: 1174, 1091
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: 3
+cactus_samac
+  rotate: false
+  xy: 930, 701
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: 2
+crate_night
+  rotate: false
+  xy: 938, 979
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: 1
+crate_samac
+  rotate: false
+  xy: 569, 736
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: 1
+crate_sky
+  rotate: false
+  xy: 647, 10
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: 1
+crate_winter
+  rotate: false
+  xy: 569, 633
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: 1
+crystal_winter
+  rotate: false
+  xy: 1174, 1011
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: 1
+dead_bush_night
+  rotate: false
+  xy: 128, 2
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: 1
+door_open_nhamay
+  rotate: false
+  xy: 128, 1116
+  size: 280, 464
+  orig: 280, 464
+  offset: 0, 0
+  index: 1
+door_unlocked_nhamay
+  rotate: false
+  xy: 128, 1582
+  size: 281, 464
+  orig: 281, 464
+  offset: 0, 0
+  index: 1
+doorlocked_nhamay
+  rotate: false
+  xy: 537, 1582
+  size: 280, 464
+  orig: 280, 464
+  offset: 0, 0
+  index: 1
+grass_samac
+  rotate: false
+  xy: 542, 310
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: 1
+grass_samac
+  rotate: false
+  xy: 1569, 1105
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: 2
+icebox_winter
+  rotate: false
+  xy: 542, 463
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: 1
+lgloo_winter
+  rotate: false
+  xy: 946, 1482
+  size: 511, 201
+  orig: 511, 201
+  offset: 0, 0
+  index: 1
+mushroom_sky
+  rotate: false
+  xy: 930, 534
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: 2
+mushroom_sky
+  rotate: false
+  xy: 930, 491
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: 1
+saw_nhamay
+  rotate: false
+  xy: 945, 1685
+  size: 357, 361
+  orig: 357, 361
+  offset: 0, 0
+  index: 1
+sign_arrow_samac
+  rotate: false
+  xy: 752, 839
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: 1
+sign_arrow_sky
+  rotate: false
+  xy: 740, 89
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: 2
+sign_night
+  rotate: false
+  xy: 964, 838
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: 1
+sign_samac
+  rotate: false
+  xy: 930, 748
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: 1
+sign_sky
+  rotate: false
+  xy: 930, 634
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: 1
+sign_winter
+  rotate: false
+  xy: 1183, 859
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: 1
+skeleton_night
+  rotate: false
+  xy: 1183, 807
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: 1
+skeleton_samac
+  rotate: false
+  xy: 1302, 1189
+  size: 150, 51
+  orig: 150, 51
+  offset: 0, 0
+  index: 1
+snow_man_winter
+  rotate: false
+  xy: 1607, 1314
+  size: 193, 210
+  orig: 193, 210
+  offset: 0, 0
+  index: 1
+stone_block_samac
+  rotate: false
+  xy: 542, 362
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: 1
+stone_samac
+  rotate: false
+  xy: 512, 155
+  size: 124, 73
+  orig: 124, 73
+  offset: 0, 0
+  index: 1
+stone_sky
+  rotate: false
+  xy: 1182, 955
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: 1
+stone_winter
+  rotate: false
+  xy: 512, 230
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: 1
+switch_nhamay
+  rotate: false
+  xy: 538, 928
+  size: 72, 257
+  orig: 72, 257
+  offset: 0, 0
+  index: 1
+switch_nhamay
+  rotate: false
+  xy: 738, 928
+  size: 72, 257
+  orig: 72, 257
+  offset: 0, 0
+  index: 2
+tombstone_night
+  rotate: false
+  xy: 1388, 1111
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: 2
+tombstone_night
+  rotate: false
+  xy: 930, 577
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: 1
+tre_sky
+  rotate: false
+  xy: 128, 839
+  size: 282, 275
+  orig: 282, 275
+  offset: 0, 0
+  index: 3
+tree_night
+  rotate: false
+  xy: 128, 336
+  size: 286, 239
+  orig: 286, 239
+  offset: 0, 0
+  index: 1
+tree_samac
+  rotate: false
+  xy: 128, 577
+  size: 313, 260
+  orig: 313, 260
+  offset: 0, 0
+  index: 1
+tree_sky
+  rotate: false
+  xy: 536, 1279
+  size: 282, 301
+  orig: 282, 301
+  offset: 0, 0
+  index: 2
+tree_sky
+  rotate: false
+  xy: 938, 933
+  size: 116, 44
+  orig: 116, 44
+  offset: 0, 0
+  index: 1
+tree_winter
+  rotate: false
+  xy: 1430, 1766
+  size: 364, 280
+  orig: 364, 280
+  offset: 0, 0
+  index: 1
+tree_winter
+  rotate: false
+  xy: 946, 1200
+  size: 228, 280
+  orig: 228, 280
+  offset: 0, 0
+  index: 2
